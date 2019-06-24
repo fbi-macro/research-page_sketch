@@ -350,6 +350,7 @@
 }
 
 .blog_right_sidebar{
+   
     border: 1px solid #eeeeee;
     background: #fafaff;
     padding: 30px;
@@ -363,8 +364,10 @@
         margin-bottom: 30px;
     }
     .search_widget{
+        position:fixed;
         .input-group{
             .form-control{
+                
                 font-size: 14px;
                 line-height: 29px;
                 border: 0px;
